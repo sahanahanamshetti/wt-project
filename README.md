@@ -118,9 +118,3 @@ Contributions are welcome! Please follow these guidelines:
 - Commit your changes (`git commit -m 'Add new feature'`)
 - Push to the branch (`git push origin feature`)
 - Create a new Pull Request
-
-## Team WTF
-
-- [Mannar GSS](https://github.com/mannar-165)
-- [Tharun Y](https://github.com/TharunYetti)
-- [Hemanth Kumar M](https://github.com/ihemanthm)
